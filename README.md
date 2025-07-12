@@ -15,11 +15,17 @@ NaFED-7 adalah dataset ekspresi wajah yang dikembangkan secara mandiri oleh pene
 📦 Struktur folder:
 NaFED-7/
 ├── jijik/
+
 ├── marah/
+
 ├── netral/
+
 ├── sedih/
+
 ├── senang/
+
 ├── takut/
+
 └── terkejut/
 
 🎭 Kelas Emosi
@@ -30,6 +36,7 @@ NaFED-7/
  😨 **Takut**     Mata terbuka lebar, alis terangkat, mulut terbuka.   
  😄 **Senang**    Senyum lebar, mata menyipit, sudut bibir naik.       
  😢 **Sedih**     Alis melengkung, mata sayu, bibir tertarik ke bawah. 
+ 
  😮 **Terkejut**  Mata dan mulut terbuka lebar, alis terangkat.        
  😐 **Netral**    Ekspresi wajah rileks tanpa emosi khusus.            
 
