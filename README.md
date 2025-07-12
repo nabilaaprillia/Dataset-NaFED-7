@@ -1,7 +1,9 @@
 😃 NaFED-7: Nabila's Facial Expression Dataset (7 Emotions)
+
 NaFED-7 adalah dataset ekspresi wajah yang dikembangkan secara mandiri oleh peneliti dengan tujuan menyediakan data yang alami dan relevan untuk keperluan penelitian deteksi emosi berbasis citra wajah. Dataset ini dikumpulkan dari kalangan mahasiswa Informatika dan teman-teman dekat melalui komunikasi langsung dan partisipasi sukarela.
 
 📌 Rincian Dataset
+
 📷 Total gambar: 700
 
 🎭 Jumlah kelas emosi: 7
